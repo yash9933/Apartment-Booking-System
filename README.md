@@ -1,1 +1,1 @@
-Apartment Booking System made using Java, Mavan, MongoDB No SQL databases with CRUD operations
+Apartment Booking System made using Java, Maven, MongoDB No SQL databases with CRUD operations
